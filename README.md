@@ -43,12 +43,3 @@
 
 <p></br></p>
 i'm open for any projects, contact me on ig or twitter.
-
-
-
-
-
-
-
-
-  <p></br></p>  <p></br></p>  <p></br></p>  <p></br></p>
