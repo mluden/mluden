@@ -1,14 +1,34 @@
-# Matheus Freitas 🎬
-### **AI Filmmaker & Workflow Architect**
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJzNWNyeG5wZnd1NXN6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxr9J5EDFf2/giphy.gif" width="100%" alt="AI Cinematic" /><br/>
+        <sub><b>ARTIFICIAL INTELLIGENCE</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVun7XYUCpC6G4/giphy.gif" width="100%" alt="Arch Linux" /><br/>
+        <sub><b>ARCH LINUX / KERNEL</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJzNWNyeG5wZnd1NXN6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKV8Yf6Gj6vG6uA/giphy.gif" width="100%" alt="MacOS" /><br/>
+        <sub><b>MACOS / MINIMALISM</b></sub>
+      </td>
+    </tr>
+  </table>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-freitas-361394254/pt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Apta-Agency">
-    <img src="https://img.shields.io/badge/Apta_Agency-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <br/>
+
+  <h3>🎬 **Matheus Freitas** | AI Filmmaker & Workflow Architect</h3>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/matheus-freitas-361394254/pt/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/Apta-Agency">
+      <img src="https://img.shields.io/badge/Apta_Agency-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -46,8 +66,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mluden/mluden/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-*(Note: This snake eats my contribution tiles!)*
 
 ---
 
