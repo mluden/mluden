@@ -1,23 +1,4 @@
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJzNWNyeG5wZnd1NXN6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxr9J5EDFf2/giphy.gif" width="100%" alt="AI Cinematic" /><br/>
-        <sub><b>ARTIFICIAL INTELLIGENCE</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVun7XYUCpC6G4/giphy.gif" width="100%" alt="Arch Linux" /><br/>
-        <sub><b>ARCH LINUX / KERNEL</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJzNWNyeG5wZnd1NXN6ZXF5cmZqemV6ZXF5cmZqemV6ZXF5cmZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKV8Yf6Gj6vG6uA/giphy.gif" width="100%" alt="MacOS" /><br/>
-        <sub><b>MACOS / MINIMALISM</b></sub>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <h3>🎬 **Matheus Freitas** | AI Filmmaker & Workflow Architect</h3>
 
   <p align="center">
