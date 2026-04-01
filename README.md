@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🎬 **Matheus Freitas** | AI Filmmaker & Workflow Architect</h3>
+  <h3>🎬 Matheus Freitas | AI Filmmaker & Workflow Architect</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/matheus-freitas-361394254/pt/">
